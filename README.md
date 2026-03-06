@@ -1,2 +1,2 @@
-# tc-card-manager-artifacts
+# tcg-card-manager-artifacts
 Artifact repo for TCG Card Manager App
